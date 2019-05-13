@@ -1,25 +1,25 @@
 body.main
      {
-       background-image: url('images/eagle.jpg');
+       background-image: url('eagle.jpg');
        background-size: cover;
 
    }
 body.acad
      {
-       background-image: url('images/city.jpg');
+       background-image: url('city.jpg');
        background-size: cover;
        background-repeat: no-repeat;
    }
 body.diw
 {
-	   background-image: url('images/blue.jpg');
+	   background-image: url('blue.jpg');
        background-size: cover;
        background-repeat: no-repeat;
  
 }
 body.con
 {
-	   background-image: url('images/black.jpg');
+	   background-image: url('black.jpg');
        background-size: cover;
        background-repeat: no-repeat;
  
